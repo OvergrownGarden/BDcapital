@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    
+}
+h1{
+    padding-top: 100px;
+    
+}
+
+#l1{
+    font-size: 200%;
+    border-style: solid;
+    background-color: gray;
+
+}
+
+#b1 {
+    
+    background-color: aqua;
+}
